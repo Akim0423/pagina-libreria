@@ -625,6 +625,15 @@ footer .end span{
     margin-left: 10px;
 }
 
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
 .faq {
     margin: 20px 0;
