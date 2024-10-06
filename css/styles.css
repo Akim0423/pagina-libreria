@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #089da1;
+}
+
+.faq {
+    margin: 20px 0;
+}
+
+.faq h2 {
+    color: #089da1;
+}
+
+.faq p {
+    margin: 10px 0;
+}
+
+.contact-info {
+    margin: 20px 0;
+    padding: 10px;
+    background: #B0E0E6;
+    border-radius: 5px;
+}
